@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>valentine</title> 
+<link rel="stylesheet" href="/AAAA/style.css">
+
+</head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300&display=swap" rel="stylesheet">
+		<div style="position: relative;background-color:#E6E6FA;height: 1000px ">
+<body>
+
+		<div style="position: relative;background-color:#D8BFD8; top: -21px; height:105px">
+			
+			<p>	<h1 style="position:relative;text-align: center; top: 25px">may our love be eternal</h1> </p>
+				<br><br>
+			<h2 style="position: relative;left:38%"> Сайт создан специально для тебя малышка </h2>
+		</div>
+		<div class="button" style="display:inline; position: relative;left: 40%">
+			<br><ul>
+			<button style="position: relative; background-color:#61aea3 "><a href="#valentines" style="text-decoration: none;color:#000 ">valentines</a></li></button>
+			<button style="position: relative; background-color:#61aea3 "><a href="#memories" style="text-decoration: none;color:#000 ">memories</a></li></button>
+			<button style="position: relative; background-color:#61aea3 "><a href="#luv" style="text-decoration: none;color:#000 ">luv</a></li></button>
+			<button style="position: relative; background-color:#61aea3 "><a href="#text" style="text-decoration: none;color:#000 ">text</a></li></button>
+			<button style="position: relative; background-color:#61aea3 "><a href="#cut3_sh1t" style="text-decoration: none;color:#000 ">cut3_$hit</a></li></button>
+			</ul>
+			<hr>
+		</div>
+		<p align="center">	<a href=https://vk.com/emoboyyyy style=" text-decoration: none;color:#000"> Карина, Поздравляю тебя с 14 февраля!</a> </p>
+			<br>
+	<section id="valetines">
+		<div>
+				<h3 style="position: relative;text-align:center;">От: </h3>
+				<p align="center"><b>	<a href=https://vk.com/emoboyyyy style="position:relative;text-decoration: none;color:#800080"> Папочки </a> </b> </p> </h4>
+				<h5 style="position: relative;text-align: left"> qqqqqqq</h5>
+				<p style="position: relative; left: 3%;width: 50%:">
+				bfnuuuzdbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbnuuuzuuuuuuuuuuuuupod
+		    	<br>
+				bfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuu
+				<br><br>
+				uuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuuuuuuuuupodbfnuuuzuuuuuu	uuuuuuupouuuuuuuuuuuuupon </p>
+				<img style="position: relative; width: 400px; height: 400px;left: 40%" src="\AAAA\1.gif">
+		</div>
+	</section>
+	
+	<section id="memories">
+		
+	</section>
+	
+	<section id="luv">
+		
+	</section>
+	
+	<section id="text">
+		
+	</section>
+
+	<section id="cut3_sh1t">
+		
+	</section>
+</body>
+</html> 
